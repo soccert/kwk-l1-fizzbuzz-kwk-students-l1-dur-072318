@@ -1,4 +1,4 @@
-x=15
+x=5
 if x%3==0&&x%5==0
   puts "fizzbuzz"
   elsif x%3==0
